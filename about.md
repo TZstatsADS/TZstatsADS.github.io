@@ -4,8 +4,6 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+"Applied Data Science" is a project-based learning (PBL) course that incorporates knowledge and skills covered in a statistical curriculum with topics and projects in data science. Programming will be covered using existing tools in R, while students can use tools from other languages. Computing best practices will be taught using test-driven development, version control, and collaboration. Students finish the class with a portfolio on GitHub, and deeper understanding of several core statistical/machine-learning algorithms. 
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+As a project-based hands-on course in data science, no formal instruction on statistics, data science, machine learning will be given. Project cycles run every 2-3 weeks, where we will have mini data projects. Groups will be formed randomly and project products will be peer-reviewed.
