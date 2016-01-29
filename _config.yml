@@ -1,13 +1,16 @@
-# Site settings
-title: Applied Data Science at Columbia
-email: tian.zheng@columbia.edu
-description: > # this means to ignore newlines until "baseurl:"
-  This GitHub organization is for Stat W4249 Applied Data Science, a project-based hands-on course in data science.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://TZStatsADS.github.io" # the base hostname & protocol for your site
-twitter_username: tz33cu
-github_username:  tz33cu
+title: Applied Data Science @ Columbia
+description: "Class Blog"
 
-# Build settings
-markdown: kramdown
-highlighter: rouge
+url: http://TZstatsADS.github.io/
+port: 3000
+highlighter: pygments
+
+permalink: /:year/:month/:day/:title.html
+markdown: redcarpet
+
+google_analytics: #
+
+owner:
+  name: Tian Zheng
+  github: tz33cu
+  twitter: tz33cu
