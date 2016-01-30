@@ -15,9 +15,9 @@ layout: default
           {{ post.date | date: "%b %Y" }}
         </info>
         {% if post.description %}
-        <span class="body">{{ post.description | strip_html }}</span>
+        <span class="body">{{ post.description | strip_html | truncatewords: 50 }}</span>
         {% else %}
-        <span class="body">{{ post.excerpt | strip_html }}</span>
+        <span class="body">{{ post.excerpt | strip_html | truncatewords: 50 }}</span>
         {% endif %}
       {% endif %}<!-- post.photo_url -->
       </div>
