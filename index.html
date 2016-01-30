@@ -12,7 +12,7 @@ layout: default
       {% else %}
         <!-- <div class="title">{{ post.title }}</div> -->
         <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
-          {{ post.date | date: "%b %Y" }}
+          {{ post.date | date: "%b %d, %Y" }}
         </info>
         {% if post.description %}
         <span class="body">{{ post.description | strip_html | truncatewords: 50 }}</span>
