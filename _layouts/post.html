@@ -5,7 +5,8 @@ layout: default
     <div class="post single">
         {% unless page.photo_url %}
         <h2>{{ page.title }}</h2>
-        <info datetime="{{ page.date | date: "%Y-%m-%d" }}">
+        <info datetime="{<a href="default.html">default.html</a>
+{ page.date | date: "%Y-%m-%d" }}">
             {{ page.date | date: "%b %d, %Y" }}
         </info>
         {% endunless %}
