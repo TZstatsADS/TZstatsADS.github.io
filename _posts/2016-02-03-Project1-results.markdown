@@ -3,6 +3,7 @@ title: Project 1: ACS results
 layout: post
 category: project
 ---
+Here are the team repositories for Project 1 on American Community Survey for Spring 2016. 
 
 - [Team 10](https://github.com/TZstatsADS/cycle1-10) habla Inglés? 
 - [Team 2](https://github.com/TZstatsADS/cycle1-2) How we live and how we work
