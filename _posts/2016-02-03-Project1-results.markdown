@@ -1,7 +1,7 @@
 ---
-title: Project 1: ACS results
+title: Project-ACS team results
 layout: post
-category: project
+Category: teaching notes
 ---
 Here are the team repositories for Project 1 on American Community Survey for Spring 2016. 
 
