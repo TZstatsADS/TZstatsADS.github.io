@@ -14,4 +14,4 @@ Here are the team repositories for Project 1 on American Community Survey for Sp
 - [Team 1](https://github.com/TZstatsADS/cycle1-1) Where is "the one" just for me?
 - [Team 4](https://github.com/TZstatsADS/cycle1-4) So now you are graduating with a degree in Statistics, what's next?
 - [Team 9](https://github.com/TZstatsADS/cycle1-9) Major matters? Am I stuck with my major for life?
-- [Team 8](https://github.com/TZstatsADS/cycle1-10)
+- [Team 8](https://github.com/TZstatsADS/cycle1-8)
