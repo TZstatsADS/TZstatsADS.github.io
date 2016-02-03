@@ -3,7 +3,6 @@ title: Project 1: ACS results
 layout: post
 category: project
 ---
-# Project ACS team contributions
 
 - [Team 10](https://github.com/TZstatsADS/cycle1-10) habla Inglés? 
 - [Team 2](https://github.com/TZstatsADS/cycle1-2) How we live and how we work
