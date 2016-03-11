@@ -7,7 +7,7 @@ port: 3000
 highlighter: pygments
 
 permalink: /:year/:month/:day/:title.html
-markdown: redcarpet
+
 
 google_analytics: #
 
