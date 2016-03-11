@@ -4,10 +4,10 @@ title:  "Learning by doing"
 date:   2016-01-28 22:11:24
 categories: teaching notes
 ---
-<<<<<<< HEAD
-Spring 2016, I will be teaching Applied Data Science (W4249), a project-based learning (PBL) course. I came up with the idea for this course without being aware of [this line of discussion](https://en.wikipedia.org/wiki/Project-based_learning) in education innovation. 
-
 <img src="http://www.breastcancerwellness.org/bcw/wp-content/uploads/2014/09/test.gif" alt="Drawing" style="width: 200px;"/>
+
+
+Spring 2016, I will be teaching Applied Data Science (W4249), a project-based learning (PBL) course. I came up with the idea for this course without being aware of [this line of discussion](https://en.wikipedia.org/wiki/Project-based_learning) in education innovation. 
 
 ![image](http://www.breastcancerwellness.org/bcw/wp-content/uploads/2014/09/test.gif =100x)
 
