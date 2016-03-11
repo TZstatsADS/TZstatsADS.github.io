@@ -23,7 +23,7 @@
     </style>
   </head>
   <body>
-    {{ content }}
+    {{ content | truncatewords: 50 }}
     {% include analytics.html %}
   </body>
 </html>
