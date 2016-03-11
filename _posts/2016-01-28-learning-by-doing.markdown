@@ -7,6 +7,8 @@ categories: teaching notes
 <<<<<<< HEAD
 Spring 2016, I will be teaching Applied Data Science (W4249), a project-based learning (PBL) course. I came up with the idea for this course without being aware of [this line of discussion](https://en.wikipedia.org/wiki/Project-based_learning) in education innovation. 
 
+<img src="http://www.breastcancerwellness.org/bcw/wp-content/uploads/2014/09/test.gif" alt="Drawing" style="width: 200px;"/>
+
 ![image](http://www.breastcancerwellness.org/bcw/wp-content/uploads/2014/09/test.gif =100x)
 
 As I have been preparing for this course, I started looking for research on instructional practices using projects. I discovered some very [nice discussion](http://web.stanford.edu/dept/CTL/cgi-bin/docs/newsletter/problem_based_learning.pdf) on PBL. PBL has been more widely discussed in K-12 education, especially in STEM curriculums. One of the main objective of PBL is to guide students in the process of turning into self-directed life learners. This is quite appealing as one can never acquire, within their time in school, all the knowledge required to solve all the problems. 
