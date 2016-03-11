@@ -21,9 +21,8 @@
             </ul>
         </header>                 
 
-        <p>
         {{ content }}
-        <\p>
+    
         {% if paginator.page %}
         <div id="paginator" class="content">
             {% if paginator.next_page %}
@@ -45,6 +44,7 @@
             </p>
         </footer>
         {% endunless %}
+        
         {% include footer.html %}
         {% include pagescript.html %}
     </body>
