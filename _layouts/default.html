@@ -21,10 +21,11 @@
             </ul>
         </header>                 
 
-        {{ content }}
         <p>
-            <img src="../res/screenshot2.png" alt="Shiny" style="width: 400px;"/>
+            <img src="../res/screenshot2.png" alt="Shiny" style="width: 250px;"/>
         </p>
+
+        {{ content }}
         {% if paginator.page %}
         <div id="paginator" class="content">
             {% if paginator.next_page %}
