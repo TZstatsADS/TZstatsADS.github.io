@@ -21,10 +21,6 @@
             </ul>
         </header>                 
 
-        <p>
-            <img src="http://tzstatsads.github.io/res/screenshot2.png" alt="Shiny" style="width: 250px;"/>
-        </p>
-
         {{ content }}
         {% if paginator.page %}
         <div id="paginator" class="content">
@@ -48,7 +44,6 @@
         </footer>
         {% endunless %}
 
-        {% include disqus.html %}
         {% include analytics.html %}
         {% include pagescript.html %}       
     </body>
