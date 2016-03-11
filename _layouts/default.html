@@ -42,15 +42,11 @@
         {% unless page.no_footer %}
         <footer>
             <p>Powered by Jekyll - <a href="http://github.com/nadjetey/redcup">Redcup</a> Theme</p>
-            <p>
-                <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US" class="cc"><img src="{{site.url}}/res/cc-cc.png" class="cc">
-                    <img src="{{site.url}}/res/cc-by.png" class="cc"></a>
-                This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/3.0/deed.en_US">Creative Commons License</a>
-            </p>
+        {% include footer.html %}
         </footer>
         {% endunless %}
         
-        {% include footer.html %}
+
         {% include pagescript.html %}
     </body>
 
