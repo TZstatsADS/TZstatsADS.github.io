@@ -1,6 +1,6 @@
 title: Applied Data Science @ Columbia
 tagline: https://github.com/TZstatsADS
-description: "Class Blog"
+description: "Class Blog for Stat W4249"
 
 url: http://TZstatsADS.github.io/
 port: 3000
@@ -13,5 +13,5 @@ google_analytics: #
 
 owner:
   name: Tian Zheng
-  github: tz33cu
-  twitter: tz33cu
+  github: _tz33cu
+  twitter: _tz33cu
