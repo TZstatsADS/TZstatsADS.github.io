@@ -3,8 +3,9 @@ title: Spring 2016 Project1-ACS Summary
 layout: post
 Category: teaching notes
 ---
-## Spring 2016 Project 1 American community survey
-### A [Kaggle](https://www.kaggle.com/) script (a.k.a, kernels) learning experience
+Project 1 is about exploratory data analysis on 2013 American community survey. Students were invited to study [Kaggle](https://www.kaggle.com/) scripts (a.k.a, kernels) on this dataset and come up with their collaborative RMarkdown report. 
+
+This summary is prepared by Chengliang Tang
 
 ### Team 1: [Finding Life Partner](https://github.com/TZstatsADS/ProjectACS-s16c1t1-FindLifePartners)
 #### Main ideas
