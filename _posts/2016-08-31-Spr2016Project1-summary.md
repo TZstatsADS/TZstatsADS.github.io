@@ -34,7 +34,6 @@ My favorite figures in this report are the last four ones, showing one certain s
 #### R tricks
 The use of ggplot2 is really helpful.-->
 
- 
 ### Team 2: [How we live and how we work (Money, Money, Money!)](https://github.com/TZstatsADS/ProjectACS-s16c1t2-MoneyMoneyMoney)
 
 As shown by the title, this team concentrated on several money-related issues in the report: 
@@ -46,6 +45,7 @@ As shown by the title, this team concentrated on several money-related issues in
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t2-MoneyMoneyMoney/master/figs/overallbar.png" alt="Drawing" style="width: 300px;"/>
 
 #### Critiques
+
 - a comprehensive overview of money-related characteristics in ACS dataset.
 - potential improvements include organizing all the parts under one topic, and providing analysis and comments after figures. 
 - the exploration of arrival time is interesting.
@@ -60,9 +60,7 @@ My favorite figure in this report is the last one, showing the relationship betw
 Two revision suggestions for the figures: fist, the color choice in the figure *Average Salary for Different Occupations* needs more consideration, as red and green are usually not a good match; second, in the figure *Arrive Time for Working by Industry*, the box plots can be rearranged in a increasing order of median to be more informative.
 -->
 
-
 ### Team 3: [Income disparities and so many of them](https://github.com/TZstatsADS/ProjectACS-s16c1t3-Look_at_Income)
-
 
 This team investigated many parameters on personal income. More specifically, the attributes of Location, Age, Sex, Race, Secondary Education, Disability, Work Hours and Travel Time as well as their effects on income were explored. 
 - In the first part, the group utilized different kinds of figures, like histogram, boxplot, bubble chart, etc., to illustrate the separate effects of each attribute over income.
@@ -72,6 +70,7 @@ This team investigated many parameters on personal income. More specifically, th
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t3-Look_at_Income/master/figs/fig6.Mean%20income%20bubble%20chart.jpg" alt="Drawing" style="width: 600px;"/>
 
 #### Critiques
+
 - beautiful and informative figures.
 - provided quantitative as well as qualitative results, while potential improvements include incorporating survey weights in linear regression.
 - important findings: the effect of sex and disability on income is still remarkable, which agrees with our common sense.
@@ -85,7 +84,6 @@ For example, when plotting *Average Total Person Income according to States*, th
 
 ### Team 4: [So now you are graduating with a degree in Statistics, what’s next?](https://github.com/TZstatsADS/ProjectACS-s16c1t4-StatsProspects)
 
-
 As students majoring in statistics, this team intended to explore the current conditions and future development of those who graduated with a statistics degree.
 - First, they looked into several important variables such as gender, education, employment, occupation and wage, to compare individuals with a statistics major to those with a finance, computer science or mathematics major. And the results appeared pleasing for students majoring in statistics.
 - Moreover, focused on the group of individuals with a statistics major, this team explored the effect of education degree and location on income and job opportunities, and achieved the conclusion that pursuing a higher degree and then working in developed states like CA, NY and TX will be a good choice for them.
@@ -93,6 +91,7 @@ As students majoring in statistics, this team intended to explore the current co
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t4-StatsProspects/master/figs/Rplot01.jpeg" alt="Drawing" style="width: 500px;"/>
 
 #### Critiques
+
 - well organized into two parts, with a clear logical order.
 - incorporated survey weights and used hypothesis testing to obtain statistically significant results.
 - potential improvements include using the proportion of statisticians in the whole population as the measure when deciding best location for working.  
@@ -104,9 +103,7 @@ The figure I cited here is less informative. As can be seen, computer science is
 A better choice is that first plotting a bar chart to indicate the total number of students for each major, and then in the following bar charts, using bars to represent the proportion.
 -->
 
-
 ### Team 5: [The new Chinese on the block in US](https://github.com/TZstatsADS/ProjectACS-s16c1t5-ChineseInUS)
-
 
 This team focused on the group of Chinese living in the US, and examines many aspects of this group. 
 - To begin with, the group explored the demographic profile of the Chinese, in terms of age, marital status, location, income and working time. 
@@ -115,6 +112,7 @@ This team focused on the group of Chinese living in the US, and examines many as
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t5-ChineseInUS/master/figs/texas%20wage%20structure.jpeg" alt="Drawing" style="width: 500px;"/>
 
 #### Critiques
+
 - a comprehensive, descriptive analysis of the Chinese group.
 - provided reasonable explanations for interesting phenomena found in data analysis, e.g. two peaks in the distribution of population over age. 
 - interesting finding: Chinese in Montana and South Dakota have the longest working hours and the lowest wage.
@@ -127,7 +125,6 @@ Potential improvements also include that in the figure *Well−educated Chinese 
 -->
 
 ### Team 6: [Occupational wisdom](https://github.com/TZstatsADS/ProjectACS-s16c1t6-AsianPayGap)
-
  
 Inspired by a research of USA Today, this team explored the pay gaps between Asians and whites in high-paying industries, e.g. high-tech, finance and medical.
 - First, they took a big picture to compare Asians' and whites' salaries in different occupations, and presented the result in a bar chart.
@@ -136,6 +133,7 @@ Inspired by a research of USA Today, this team explored the pay gaps between Asi
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t6-AsianPayGap/master/figs/Salary%20Comparison%20between%20Asians%20%26%20Whites.png" alt="Drawing" style="width: 400px;"/>
 
 #### Critiques
+
 - good report structure: a big picture followed by several closer investigations.
 - interesting finding: In finance occupations, Asians have better education backgrounds, but earn much less than whites.
 - incorporated replicate weights.
@@ -147,9 +145,7 @@ As for the conflict with research result from USA Today, this team only regard "
 -->
 
 
-
 ### Team 7 [He works and she works](https://github.com/TZstatsADS/ProjectACS-s16c1t7-FamilyWorkingStruct)
-
 
 This team looked at the income source of married-couple families, and focused on three main ideas:
 - First, the team compared the family with only husband in the labor force and that with only wife in the labor force from three aspects: income, education level and occupation distribution.
@@ -159,6 +155,7 @@ This team looked at the income source of married-couple families, and focused on
 <img src="https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t7-FamilyWorkingStruct/master/doc/FES_map.png" style="width: 600px;"/>
 
 #### Critiques
+
 - the order of the first two parts can be reversed, since the second part is an overview while the first and last are comparisons.
 - interesting finding: by comparing the distribution of different types of married-couple families across states, we can get useful information about the characteristics of each state, e.g. Florida is with lots of retirement communities so has high proportion of family with no one in labor force.
 
@@ -171,7 +168,6 @@ Also, the concentric pie chart *Married-couple Households in the US* is really i
 
 ### Team 8 [Comparing post-graduate life in US.](https://github.com/TZstatsADS/ProjectACS-s16c1t8-InteractiveGraphs)
 
-
 This team intended to look into the life styles in different regions of USA, especially New York and California. The analysis is divided into four parts:
 - First of all, they explored the current situations of migration of American residents. A chord diagram and a flow map are plotted to illustrate the issue.
 - Then, they focused on three important components of after-college life: work, income and marriage. Comparison between New York and California was also carried out.
@@ -179,6 +175,7 @@ This team intended to look into the life styles in different regions of USA, esp
 <img src="http://4249cycle1.netai.net/img/portfolio/migration/1.png" style="width: 500px;"/>
 
 #### Critiques
+
 - a fancy presentation approach and many informative figures.
 - potential improvements include adding more word description for the figures.
 - interesting finding: the bar chart for transportation evidently showed the biggest traffic mode difference between New York and California (Subway vs. Car).
@@ -190,7 +187,6 @@ My favorite figures in this report are the chord diagram and flow map for immigr
 
 ### Team 9 [Major matters? Am I stuck with my major for life?](https://github.com/TZstatsADS/ProjectACS-s16c1t9-MajorMatters)
 
-
 Interested in the research problem "To what extent does one's major determine his/her career?", this team focused on the relationship between majors and occupations.
 - First of all, the team utilized three different advanced figures -BiPart graph, circular graph, and bar plots- to show the occupation choosing of different majors.
 - Then, they compared the wage level for different majors and conducted a t-test to show that having a computer science related degree helps one to earn more in the CS fields.
@@ -198,6 +194,7 @@ Interested in the research problem "To what extent does one's major determine hi
 <img src = "https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t9-MajorMatters/master/output/image/ScreenShot1.png" style = "width: 500px;"/> 
 
 #### Critiques
+
 - incorporated survey weights.
 - showcased excellent figure plotting skills.
 - presented the big picture of occupation choosing of different majors, and potential improvements include taking a closer look at the flow from a certain major to another occupation, like from computer science to finance.
@@ -209,15 +206,17 @@ The two figures, BiPart graph and circular graph, are really fantastic. However,
 
 ### Team 10 [habla Inglés?](https://github.com/TZstatsADS/ProjectACS-s16c1t10-ComingToAmerica)
 
-
 This team focused on the group of non-English-speaking immigrants, and intended to deeper understand their language transition after arriving in the US.
+
 - To begin with, they took an overview of the immigration in the US from two aspects, time and space. In this exploration, the distribution of immigrants over years and states were calculated. Also, the variation of gender ratio and age structure were looked into.
 - Afterwards, the team took a closer look at the English ability of immigrants. They compared the English ability of immigrants in different states and also conducted a t-test to show that the non-child group have better English ability than their parental counterparts.
 - Selected figure: *English-Speaking Ability in Most Populous Immigrant States*
 <img src = "https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t10-ComingToAmerica/master/figs/common_states.png" style = "width: 400px;"/> 
 
 <img src = "https://raw.githubusercontent.com/TZstatsADS/ProjectACS-s16c1t10-ComingToAmerica/master/figs/Eng.png" style = "width: 400px;"/> 
+
 #### Critiques
+
 - the time series analysis of immigrants may be biased because some elder immigrants may have passed away, thus unable to fill in the survey.
 - potential improvements include reorganizing the report in a better order, and adding possible explanations for the effect of child birth on parents' English ability.
 
