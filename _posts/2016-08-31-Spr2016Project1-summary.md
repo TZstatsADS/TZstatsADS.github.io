@@ -36,6 +36,7 @@ The use of ggplot2 is really helpful.-->
 ### Team 2: [How we live and how we work (Money, Money, Money!)](https://github.com/TZstatsADS/ProjectACS-s16c1t2-MoneyMoneyMoney)
 
 As shown by the title, this team concentrated on several money-related issues in the report: 
+
 - First, the group computed the fraction of two popular employments, i.e. finance and technology, in each state and show the results in a map chart.
 - Then,  the group calculated the distribution of income, in terms of age, state, race and class of work.
 - Finally, the relationship between arrival time at work and other factors like industry, state, income were investigated by a series of box plots.
@@ -62,6 +63,7 @@ Two revision suggestions for the figures: fist, the color choice in the figure *
 ### Team 3: [Income disparities and so many of them](https://github.com/TZstatsADS/ProjectACS-s16c1t3-Look_at_Income)
 
 This team investigated many parameters on personal income. More specifically, the attributes of Location, Age, Sex, Race, Secondary Education, Disability, Work Hours and Travel Time as well as their effects on income were explored. 
+
 - In the first part, the group utilized different kinds of figures, like histogram, boxplot, bubble chart, etc., to illustrate the separate effects of each attribute over income.
 - In the second part, a linear regression was conducted to quantitatively show the effect of each factor.
 - Selected figure: *Mean Income Bubble Chart for Each Degree Field*
@@ -84,6 +86,7 @@ For example, when plotting *Average Total Person Income according to States*, th
 ### Team 4: [So now you are graduating with a degree in Statistics, what’s next?](https://github.com/TZstatsADS/ProjectACS-s16c1t4-StatsProspects)
 
 As students majoring in statistics, this team intended to explore the current conditions and future development of those who graduated with a statistics degree.
+
 - First, they looked into several important variables such as gender, education, employment, occupation and wage, to compare individuals with a statistics major to those with a finance, computer science or mathematics major. And the results appeared pleasing for students majoring in statistics.
 - Moreover, focused on the group of individuals with a statistics major, this team explored the effect of education degree and location on income and job opportunities, and achieved the conclusion that pursuing a higher degree and then working in developed states like CA, NY and TX will be a good choice for them.
 - Selected figure: *Employment Status by Major*
@@ -105,6 +108,7 @@ A better choice is that first plotting a bar chart to indicate the total number 
 ### Team 5: [The new Chinese on the block in US](https://github.com/TZstatsADS/ProjectACS-s16c1t5-ChineseInUS)
 
 This team focused on the group of Chinese living in the US, and examines many aspects of this group. 
+
 - To begin with, the group explored the demographic profile of the Chinese, in terms of age, marital status, location, income and working time. 
 - Then, in the second part, some detailed issues were looked into, including the income of Chinese master-holders, the distribution of wage over industries and periods in Texas, the gender pay gap of Chinese, and so on. 
 - Selected figure: *Average Income of Different Industries and Periods in Texas*
@@ -126,6 +130,7 @@ Potential improvements also include that in the figure *Well−educated Chinese 
 ### Team 6: [Occupational wisdom](https://github.com/TZstatsADS/ProjectACS-s16c1t6-AsianPayGap)
  
 Inspired by a research of USA Today, this team explored the pay gaps between Asians and whites in high-paying industries, e.g. high-tech, finance and medical.
+
 - First, they took a big picture to compare Asians' and whites' salaries in different occupations, and presented the result in a bar chart.
 - Then, according to the bar chart, this team chose three occupations to take a closer look at: Computer and Mathematical Occupations (conflicting with research result), Finance (whites earn much more), Medical (Asians earn much more). The closer look include education background investigation and state-wise salary comparison.
 - Selected figure: *Salary Comparison between Asians and Whites*
@@ -147,6 +152,7 @@ As for the conflict with research result from USA Today, this team only regard "
 ### Team 7 [He works and she works](https://github.com/TZstatsADS/ProjectACS-s16c1t7-FamilyWorkingStruct)
 
 This team looked at the income source of married-couple families, and focused on three main ideas:
+
 - First, the team compared the family with only husband in the labor force and that with only wife in the labor force from three aspects: income, education level and occupation distribution.
 - Then, they explored the proportion of different types of married-couple families and their distribution across the continental United States.
 - In the end, this team were interested in the income source of the spouse not in the labor force and made an elementary comparison between husband and wife using box plot and bar chart.
@@ -168,6 +174,7 @@ Also, the concentric pie chart *Married-couple Households in the US* is really i
 ### Team 8 [Comparing post-graduate life in US.](https://github.com/TZstatsADS/ProjectACS-s16c1t8-InteractiveGraphs)
 
 This team intended to look into the life styles in different regions of USA, especially New York and California. The analysis is divided into four parts:
+
 - First of all, they explored the current situations of migration of American residents. A chord diagram and a flow map are plotted to illustrate the issue.
 - Then, they focused on three important components of after-college life: work, income and marriage. Comparison between New York and California was also carried out.
 - Selected figure: *Immigration Inflow and Outflow in Different Regions*
@@ -187,6 +194,7 @@ My favorite figures in this report are the chord diagram and flow map for immigr
 ### Team 9 [Major matters? Am I stuck with my major for life?](https://github.com/TZstatsADS/ProjectACS-s16c1t9-MajorMatters)
 
 Interested in the research problem "To what extent does one's major determine his/her career?", this team focused on the relationship between majors and occupations.
+
 - First of all, the team utilized three different advanced figures -BiPart graph, circular graph, and bar plots- to show the occupation choosing of different majors.
 - Then, they compared the wage level for different majors and conducted a t-test to show that having a computer science related degree helps one to earn more in the CS fields.
 - Selected figure: *Major vs. Occupation*
