@@ -4,7 +4,7 @@ description: "Class Blog for Stat W4249"
 
 url: http://TZstatsADS.github.io/
 port: 3000
-highlighter: pygments
+highlighter: rouge
 
 permalink: /:year/:month/:day/:title.html
 
