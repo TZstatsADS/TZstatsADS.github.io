@@ -16,9 +16,9 @@
     {% if page.title != "Archive (sidebar)" %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     {% endif %}
-    <link href='http://fonts.googleapis.com/css?family=Poly:400,400italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" media="screen, projection" href="{{site.url}}/res/screen.css" type="text/css">
-    <link rel="stylesheet" media="print" href="{{site.url}}/res/print.css" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Poly:400,400italic&display=swap' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" media="screen, projection" href="{{ '/res/screen.css' | relative_url }}" type="text/css">
+    <link rel="stylesheet" media="print" href="{{ '/res/print.css' | relative_url }}" type="text/css">
 
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="{{site.owner.twitter}}">
@@ -44,5 +44,5 @@
     <meta property="article:published_time" content="{{ page.date | date: "%Y-%m-%d" }}">
     {% endif %}
     <!-- Add custom CSS here -->
-    <link href="{{site.url}}/assets/css/font-awesome.min.css" rel="stylesheet">        
+    <link href="{{ '/assets/css/font-awesome.min.css' | relative_url }}" rel="stylesheet">        
 </head>
