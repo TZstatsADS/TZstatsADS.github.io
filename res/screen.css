@@ -111,6 +111,7 @@ header ul.navigation li {
     margin-left: 1em;
 }
 header ul.navigation li:first-child { margin-left: 0; }
+header ul.navigation li:last-child { margin-right: 0.8em; }
 header ul.navigation li a {
     color: #888;
     text-decoration: none;
